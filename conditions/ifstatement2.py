@@ -6,7 +6,7 @@ elif dial == 2 :
 elif dial == 3 :
     print("Okoa data")
 elif dial == 4 :
-    print("Amaizing tubonge")
+    print("Amazing tubonge")
 elif dial == 5 :
     print("special offers")
 else:
