@@ -3,5 +3,4 @@ def calculate_months():
     months_lived = age * 12
     print(f"You Have Lived For {months_lived} months ")
 
-
 calculate_months()
