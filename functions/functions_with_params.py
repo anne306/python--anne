@@ -7,6 +7,6 @@ displayname('"anne")
 def displaysfirstname(firstname):
     print(firstname + "anne")
 
-displaysfirstname(input("Entyer first name"))
+displaysfirstname(input("Enter first name"))
 
 
